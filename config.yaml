@@ -1,4 +1,5 @@
 theme: "github-style"
-baseURL: http://example.org/
+baseurl: '/'
+relativeurls: true
 languageCode: en-us
 title: My New Hugo Site
