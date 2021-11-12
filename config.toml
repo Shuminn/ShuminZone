@@ -1,13 +1,13 @@
-baseURL = "/"
+baseURL = "https://liushumin.zone/"
 languageCode = "zh-cn"
-title = "MeiK's blog"
+title = "Shumin's blog"
 theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "MeiK"
+  author = "Liu Shumin"
   description = "In solitude, where we are least alone."
   github = "MeiK2333"
   facebook = "MeiK2333"
