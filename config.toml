@@ -1,4 +1,5 @@
-baseURL = "https://liushumin.zone/"
+baseURL = "/"
+relativeurls = true
 languageCode = "zh-cn"
 title = "Shumin's blog"
 theme = "github-style"
@@ -9,20 +10,21 @@ pygmentsUseClasses = true
 [params]
   author = "Liu Shumin"
   description = "In solitude, where we are least alone."
-  github = ""
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
-  keywords = "blog, google analytics"
+  github = "Shuminn"
+  twitter = ""
+  linkedin = ""
+  email = ""
+  url = "https://liushumin.zone/"
+  keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
   rss = true
   lastmod = true
   favicon = "/images/github.png"
+  icon = 'images/me.jpg'
   location = "China"
   userStatusEmoji = "😀"
 
   [[params.links]]
-    title = "Link"
+    title = ""
     href = "https://github.com/meik2333"
   [[params.links]]
     title = "Link2"
