@@ -18,8 +18,7 @@ pygmentsUseClasses = true
   keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
   rss = true
   lastmod = true
-  favicon = "/images/github.png"
-  icon = 'images/me.jpg'
+  favicon = "/images/me.jpg'"
   location = "China"
   userStatusEmoji = "😀"
 
@@ -27,9 +26,9 @@ pygmentsUseClasses = true
     title = ""
     href = "https://github.com/meik2333"
   [[params.links]]
-    title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    title = "ResearchGate"
+    href = "https://www.researchgate.net/profile/Shumin-Liu-7"
+    icon = "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D47853226208&imgrefurl=https%3A%2F%2Fzh-cn.facebook.com%2FResearchGate%2F&tbnid=XB_PAMaSfB8okM&vet=12ahUKEwiukvjlg5P0AhVG-5QKHYJJAFcQMygAegUIARCiAQ..i&docid=KyjXn2oaEomFJM&w=320&h=320&q=researchgate&ved=2ahUKEwiukvjlg5P0AhVG-5QKHYJJAFcQMygAegUIARCiAQ"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
