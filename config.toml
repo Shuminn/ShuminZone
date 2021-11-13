@@ -11,24 +11,22 @@ pygmentsUseClasses = true
   author = "Liu Shumin"
   description = "In solitude, where we are least alone."
   github = "Shuminn"
-  twitter = "Shumin Liu"
-  linkedin = "Shumin Liu"
+  twitter = "ShuminLoveSci"
+  linkedin = "刘书敏"
   email = "shuminliu0-0@foxmail.com"
   url = "https://liushumin.zone/"
   keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
   rss = true
   lastmod = true
-  favicon = "/images/me.jpg'"
+  favicon = "/images/RG.png'"
   location = "China"
   userStatusEmoji = "😀"
 
-  [[params.links]]
-    title = ""
-    href = "https://github.com/meik2333"
+
   [[params.links]]
     title = "ResearchGate"
     href = "https://www.researchgate.net/profile/Shumin-Liu-7"
-    icon = "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D47853226208&imgrefurl=https%3A%2F%2Fzh-cn.facebook.com%2FResearchGate%2F&tbnid=XB_PAMaSfB8okM&vet=12ahUKEwiukvjlg5P0AhVG-5QKHYJJAFcQMygAegUIARCiAQ..i&docid=KyjXn2oaEomFJM&w=320&h=320&q=researchgate&ved=2ahUKEwiukvjlg5P0AhVG-5QKHYJJAFcQMygAegUIARCiAQ"
+    icon = "/images/RG.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
