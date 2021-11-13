@@ -12,13 +12,13 @@ pygmentsUseClasses = true
   description = "In solitude, where we are least alone."
   github = "Shuminn"
   twitter = "ShuminLoveSci"
-  linkedin = "刘书敏"
+  linkedin = "896683324@qq.com"
   email = "shuminliu0-0@foxmail.com"
   url = "https://liushumin.zone/"
   keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
   rss = true
   lastmod = true
-  favicon = "/images/RG.png'"
+  favicon = "/images/RG.png"
   location = "China"
   userStatusEmoji = "😀"
 
