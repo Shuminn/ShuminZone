@@ -10,16 +10,16 @@ pygmentsUseClasses = true
 [params]
   author = "Liu Shumin"
   description = "In solitude, where we are least alone."
-  github = "Shuminn"
   twitter = "ShuminLoveSci"
   linkedin = "LiuShumin"
+  github = "Shuminn"
   email = "shuminliu0-0@foxmail.com"
   url = "https://liushumin.zone/"
   keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
   rss = true
   lastmod = true
-  favicon = "/images/RG.png"
-  location = "China"
+  favicon = "🐵"
+  location = "Beijing, China"
   userStatusEmoji = "😀"
 
 
