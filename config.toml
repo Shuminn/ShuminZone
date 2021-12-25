@@ -11,23 +11,17 @@ pygmentsUseClasses = true
   description = "In solitude, where we are least alone."
   github = "Shuminn"
   twitter = "ShuminLoveSci"
-  linkedin = ""
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  linkedin = "liushumin"
+  email = "shuminliu0-0@foxmail.com"
   keywords = "blog, google analytics"
-  rss = true
+  rss = false
   lastmod = true
   favicon = "/images/github.png"
   location = "China"
   userStatusEmoji = "😀"
 
   [[params.links]]
-    title = "Link"
-    href = "https://github.com/meik2333"
-  [[params.links]]
-    title = "Link2"
+    title = "ResearchGate"
     href = "https://meik2333.com"
     icon = "https://meik2333.com/images/avatar.png"
 
