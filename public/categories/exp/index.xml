@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shumin&#39;s blog</title>
-    <link>https://liushumin.zone/</link>
-    <description>Recent content on Shumin&#39;s blog</description>
+    <title>exp on Shumin&#39;s blog</title>
+    <link>https://liushumin.zone/categories/exp/</link>
+    <description>Recent content in exp on Shumin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://liushumin.zone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://liushumin.zone/categories/exp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I am trying to use R Markdown to write something and put it on my web</title>
       <link>https://liushumin.zone/post/2021-12-25-hello-wolrd/</link>

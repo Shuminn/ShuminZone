@@ -5,6 +5,16 @@
     <link>https://liushumin.zone/categories/</link>
     <description>Recent content in Categories on Shumin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://liushumin.zone/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://liushumin.zone/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exp</title>
+      <link>https://liushumin.zone/categories/exp/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://liushumin.zone/categories/exp/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
