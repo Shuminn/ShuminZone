@@ -13,6 +13,7 @@ pygmentsUseClasses = true
   twitter = "ShuminLoveSci"
   email = "shuminliu0-0@foxmail.com"
   rss = false
+  url='https://www.marxists.org/chinese/index.html'
   lastmod = true
   favicon = "🎄"
   location = "Beijing, China"
