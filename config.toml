@@ -2,7 +2,7 @@ baseURL = "https://liushumin.zone/"
 languageCode = "zh-cn"
 title = "Shumin's blog"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+[googleAnalytics = "UA-123456-789"]
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -13,6 +13,7 @@ pygmentsUseClasses = true
   linkedin = "LiuShumin"
   github = "Shuminn"
   email = "shuminliu0-0@foxmail.com"
+  avatar='/images/avatar.png'
   rss= false
   lastmod = true
   favicon = "/images/RG.png"
