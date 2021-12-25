@@ -1,5 +1,4 @@
-baseURL = "/"
-relativeurls = true
+baseURL = "https://liushumin.zone/"
 languageCode = "zh-cn"
 title = "Shumin's blog"
 theme = "github-style"
@@ -14,13 +13,11 @@ pygmentsUseClasses = true
   linkedin = "LiuShumin"
   github = "Shuminn"
   email = "shuminliu0-0@foxmail.com"
-  url = "https://liushumin.zone/"
-  keywords = "Vision, Neuroscience, Swimming, Reading, Food, Life"
-  rss = true
+  avatar='/images/avatar.png'
+  rss= false
   lastmod = true
-  favicon = "🐵"
+  favicon = "/images/RG.png"
   location = "Beijing, China"
-  userStatusEmoji = "😀"
 
 
   [[params.links]]
