@@ -11,14 +11,12 @@ pygmentsUseClasses = true
   description = "人一旦沉醉于自身的软弱，就会一味地软弱下去。会在众目睽睽中倒下，倒在街头，倒在比地面更低的地方。"
   github = "Shuminn"
   twitter = "ShuminLoveSci"
-  linkedin = "逸飞-曹-561158167"
   email = "shuminliu0-0@foxmail.com"
-  keywords = "blog, google analytics"
   rss = false
   lastmod = true
-  favicon = "/images/github.pn"
+  favicon = "🎄"
   location = "Beijing, China"
-  userStatusEmoji = "😀"
+  userStatusEmoji = "☺"
 
   [[params.links]]
     title = "ResearchGate"
