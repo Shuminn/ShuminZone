@@ -17,7 +17,6 @@ pygmentsUseClasses = true
   favicon = "🎄"
   location = "Beijing, China"
   userStatusEmoji = "☺"
-  url=''
 
   [[params.links]]
     title = "ResearchGate"
