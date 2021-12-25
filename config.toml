@@ -13,11 +13,12 @@ pygmentsUseClasses = true
   linkedin = "LiuShumin"
   github = "Shuminn"
   email = "shuminliu0-0@foxmail.com"
-  avatar='/images/avatar.png'
+  avatar='/images/twitter.png'
   rss= false
   lastmod = true
   favicon = "/images/RG.png"
   location = "Beijing, China"
+  userStatusEmoji='🎄'
 
 
   [[params.links]]
