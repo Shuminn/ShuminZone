@@ -16,14 +16,14 @@ pygmentsUseClasses = true
   keywords = "blog, google analytics"
   rss = false
   lastmod = true
-  favicon = "/images/github.png"
-  location = "China"
+  favicon = "/images/github.pn"
+  location = "Beijing, China"
   userStatusEmoji = "😀"
 
   [[params.links]]
     title = "ResearchGate"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://www.researchgate.net/profile/Shumin-Liu-7"
+    icon = "images/RG.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
