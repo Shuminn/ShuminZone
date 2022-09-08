@@ -1,0 +1,15 @@
+---
+title: '20220908'
+author: Shumin
+date: '2022-09-08'
+slug: []
+categories:
+  - diary
+tags:
+  - work or study
+cover: ''
+keywords:
+  - ''
+  - ''
+summary: ''
+---

@@ -8,15 +8,14 @@ pygmentsUseClasses = true
 
 [params]
   author = "Shumin"
-  description = "“人一旦沉醉于自身的软弱，就会一味地软弱下去。会在众目睽睽中倒下，倒在街头，倒在比地面更低的地方。”"
+  description = "Throw away the fantasy, prepare for the fight."
   github = "Shuminn"
   twitter = "ShuminLoveSci"
   email = "shuminliu0-0@foxmail.com"
   rss = false
   lastmod = true
-  favicon = "🎄"
   location = "Beijing, China"
-  userStatusEmoji = "☺"
+  userStatusEmoji = "🍺"
 
   [[params.links]]
     title = "ResearchGate"
