@@ -6,10 +6,21 @@ slug: []
 categories:
   - diary
 tags:
-  - work or study
+  - work/study
 cover: ''
 keywords:
+  - 'color'
   - ''
-  - ''
-summary: ''
+summary: 'Read about how does the brain process color.'
 ---
+Funny researchers:
+
+  s:
+
+Funny articles:
+
+Funny video:
+
+Funny papers:
+
+Nice dinner with Yang!
