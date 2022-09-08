@@ -13,14 +13,13 @@ keywords:
   - ''
 summary: 'Read about how does the brain process color.'
 ---
-Funny researchers:
 
-  s:
+1 Funny researchers:
 
-Funny articles:
+2 Funny articles:
 
-Funny video:
+3 Nice video:
 
-Funny papers:
+4 Funny papers:
 
 Nice dinner with Yang!
