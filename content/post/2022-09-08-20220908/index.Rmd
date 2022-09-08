@@ -11,7 +11,7 @@ cover: ''
 keywords:
   - 'color'
   - ''
-summary: 'Read about how does the brain process color.'
+summary: 'Read about how the brain processes color.'
 ---
 A junior schoolmate asked me a question about the **difference of brain activity of human between seeing black-and-white film and color film**. So today I searched for the information about color processing. I had thought that this was a question already solved. But I was amazed to find that it still haven't been explored clearly.  
 
